@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# MindSpore/MindYOLO
+runs/
+*.ckpt
+*.npy
+*.cache
+*.cache.npy
+
+# Dataset (太大，不上传)
+dataset/images/
+dataset/labels/
+dataset/*.cache*
+dataset/train.txt
+dataset/val.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp_*
+*.tmp

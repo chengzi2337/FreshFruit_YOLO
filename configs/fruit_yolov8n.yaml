@@ -8,10 +8,10 @@ overflow_still_update: false
 clip_grad: false
 ema: true
 epochs: 5
-per_batch_size: 4
-img_size: 640
+per_batch_size: 1
+img_size: 480
 nbs: 64
-accumulate: 1
+accumulate: 4
 log_interval: 50
 data:
   dataset_name: fruit

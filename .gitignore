@@ -42,3 +42,11 @@ logs/
 # Temporary files
 tmp_*
 *.tmp
+
+# Debug scripts (不提交检查bug的小脚本)
+debug_*.py
+check_*.py
+inspect_*.py
+find_*.py
+generate_index.py
+menu.py

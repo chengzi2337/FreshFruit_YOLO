@@ -44,8 +44,6 @@ FreshFruit_YOLO/
 # Windows CPU 版本
 pip install mindspore==2.7.2
 
-# 或 Linux GPU 版本
-pip install mindspore-cuda12-x86_64==2.7.2
 ```
 
 ### 2. 安装 MindYOLO

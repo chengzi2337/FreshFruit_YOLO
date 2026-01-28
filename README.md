@@ -122,6 +122,4 @@ python path/to/mindyolo/infer.py \
 - [MindSpore 官网](https://www.mindspore.cn/)
 - [MindYOLO GitHub](https://github.com/mindspore-lab/mindyolo)
 
-## 📄 License
 
-MIT License
